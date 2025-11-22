@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AIDrawMapState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="AISetupState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="AISolver.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="AISolvingState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditsState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="InstructionState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayingState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AIDrawMapState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AISetupState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AISolver.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AISolvingState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditsState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DSU.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="InstructionState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayingState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{e43a9e73-a6d4-4ae0-b9ef-098f927da9dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{5f950a34-c5b0-4159-9c85-f588060cd63d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
